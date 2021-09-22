@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://subhajitd585.github.io/csb-icogn/static/css/main.232baf04.chunk.css",
+    "main.js": "https://subhajitd585.github.io/csb-icogn/static/js/main.3542db85.chunk.js",
+    "main.js.map": "https://subhajitd585.github.io/csb-icogn/static/js/main.3542db85.chunk.js.map",
+    "runtime-main.js": "https://subhajitd585.github.io/csb-icogn/static/js/runtime-main.b8a21856.js",
+    "runtime-main.js.map": "https://subhajitd585.github.io/csb-icogn/static/js/runtime-main.b8a21856.js.map",
+    "static/js/2.6a12e16c.chunk.js": "https://subhajitd585.github.io/csb-icogn/static/js/2.6a12e16c.chunk.js",
+    "static/js/2.6a12e16c.chunk.js.map": "https://subhajitd585.github.io/csb-icogn/static/js/2.6a12e16c.chunk.js.map",
+    "index.html": "https://subhajitd585.github.io/csb-icogn/index.html",
+    "static/css/main.232baf04.chunk.css.map": "https://subhajitd585.github.io/csb-icogn/static/css/main.232baf04.chunk.css.map",
+    "static/js/2.6a12e16c.chunk.js.LICENSE.txt": "https://subhajitd585.github.io/csb-icogn/static/js/2.6a12e16c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8a21856.js",
+    "static/js/2.6a12e16c.chunk.js",
+    "static/css/main.232baf04.chunk.css",
+    "static/js/main.3542db85.chunk.js"
+  ]
+}
